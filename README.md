@@ -1,2 +1,6 @@
-# C 13 Capstone project group 1
-## This is a group project assigned by Greeat Learning Team on the completion of java full stack developer cetification
+
+## •Crafted the Quora Clone QA website, setting the internet ablaze with its extraordinary features, including email notifications and admin approval, driving user engagement to extraordinary heights.
+
+## •Executed queries at warp speed, thanks to the enchanting magic of microservices like Chat Service and Mailing Service, astonishingly cutting query response times by an otherworldly 99%.
+
+
